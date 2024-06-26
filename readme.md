@@ -1,4 +1,4 @@
 Brian Smith
 smithb22@oregonstate.edu
 
-Feature A Additions
+Feature A Addition, Move Head by 1
